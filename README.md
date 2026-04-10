@@ -45,4 +45,4 @@ python snake_terminal.py
 
 享受游戏！
 
-版本0.0.1
+版本0.0.2
